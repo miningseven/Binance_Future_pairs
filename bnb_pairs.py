@@ -4,8 +4,8 @@ key = 'YOUR_API_KEY'
 secret = 'YOUR_SEKRET-API-KEY'
 
 
-with open ('settings.json') as config_file:
-   config = json.load(config_file)
+#with open ('settings.json') as config_file:
+#   config = json.load(config_file)
 #key = config['api-key']
 #secret = config['api-secret']
 
